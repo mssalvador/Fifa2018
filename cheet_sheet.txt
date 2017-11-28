@@ -1,0 +1,3 @@
+unsupervised ogpave 1.1: list(enumerate(attribute_df.columns))
+                        filter(lambda x: x[1]=='Acceleration', enumareted_cols)
+                        filter(lambda x: x[1]=='Volleys', enumareted_cols)
